@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/max-pressure/static/css/main.79b40fd2.css",
+    "main.js": "/max-pressure/static/js/main.afa84b0c.js",
+    "static/media/background.jpg": "/max-pressure/static/media/background.d01619c24551ce6dc278.jpg",
+    "static/media/pexels-vidal-balielo-jr-1682497.jpg": "/max-pressure/static/media/pexels-vidal-balielo-jr-1682497.9e6985e3d48931f470b9.jpg",
+    "static/media/Image.jpg": "/max-pressure/static/media/Image.aa3c33ffbc582740f45e.jpg",
+    "static/media/building-svgrepo-com.svg": "/max-pressure/static/media/building-svgrepo-com.fba816ed4c9dafbe36e17377a3189b21.svg",
+    "index.html": "/max-pressure/index.html",
+    "static/media/instagram.svg": "/max-pressure/static/media/instagram.c3b7a552cc07476bb28a491bd03b1cce.svg",
+    "static/media/house-svgrepo-com.svg": "/max-pressure/static/media/house-svgrepo-com.3c15bd8d136b4b97bac7d3b18b3c1785.svg",
+    "main.79b40fd2.css.map": "/max-pressure/static/css/main.79b40fd2.css.map",
+    "main.afa84b0c.js.map": "/max-pressure/static/js/main.afa84b0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79b40fd2.css",
+    "static/js/main.afa84b0c.js"
+  ]
+}
